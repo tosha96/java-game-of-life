@@ -9,3 +9,4 @@ Controls:
 -Time per iteration can be adjusted by slider
 -While paused, click to create new cell or remove existing cell
 -Click on a color in the color pallete to create cells of that color while clicking
+
