@@ -4,9 +4,13 @@ of a game of life, and includes the additional feature of multiple cell types. W
 chance to inherit the color of each of it's parents. 
 
 Controls:
--Plus and minus to zoom in and out
--Left, right, up and down to pan
--Time per iteration can be adjusted by slider
--While paused, click to create new cell or remove existing cell
--Click on a color in the color pallete to create cells of that color while clicking
 
+-Plus and minus to zoom in and out
+
+-Left, right, up and down to pan
+
+-Time per iteration can be adjusted by slider
+
+-While paused, click to create new cell or remove existing cell
+
+-Click on a color in the color pallete to create cells of that color while clicking
